@@ -4,3 +4,7 @@
   color: yellow;
   font-size: 100%;
 }
+
+#gryffindor, #ravenclaw, #slytherin, #hufflepuff {
+  display: none;
+}
