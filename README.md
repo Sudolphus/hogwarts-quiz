@@ -1,8 +1,8 @@
-# _{Application Name}_
+# _Hogwarts Quiz_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Calculate your Hogwarts House!, 06.04.2020_
 
-#### By _**Micheal Hansen**_
+#### By _**Micheal Hansen and Tristan Emmerson**_
 
 ## Description
 
