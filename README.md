@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This quiz combines the power of radio buttons with the wonder of the if-else block to scientifically compute your Hogwarts House_
 
 ## Setup/Installation Requirements
 
@@ -20,18 +20,15 @@ Open by downloading:
 
 Open via Bash/GitBash:
 1. Clone this repository onto your computer:
-`git clone {PUT_REPO_HERE}`
-2. Navigate into the `{NAME_OF_DIRECTORY}` directory in Visual Studio Code or preferred text editor
+`git clone https://github.com/Sudolphus/hogwarts-quiz`
+2. Navigate into the `hogwarts-quiz` directory in Visual Studio Code or preferred text editor
 `code .`
 3. Open index.html in Chrome or preferred browser:
 `open index.html`
 
-#### To see my live website go to {GH_PAGES_LINK_HERE}!
-
-
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_None Currently_
 
 ## Support and contact details
 
@@ -48,4 +45,4 @@ _Please reach out through my GitHub account._
 
 MIT License.
 
-Copyright (c) 2020 **_Micheal Hansen_**
+Copyright (c) 2020 **_Micheal Hansen and Tristan Emmerson_**

@@ -5,6 +5,38 @@
   font-size: 100%;
 }
 
+img {
+  float: left;
+  max-height: 500px;
+  max-width: 500px;
+}
+
 #gryffindor, #ravenclaw, #slytherin, #hufflepuff {
   display: none;
+  font-size: 200px;
+}
+
+#gryffindor {
+  background-color: #7F0909;
+  color: #FFC500;
+  border: 5px solid #FFC500;
+}
+
+#ravenclaw {
+  background-color: #000A90;
+  color: #946B2D;
+  border: 5px solid #946B2D;
+}
+
+
+#slytherin {
+  background-color: #0D6217;
+  color: #AAAAAA;
+  border: 5px solid #AAAAAA;
+}
+
+#hufflepuff {
+  background-color: #eee117;
+  color: #000000;
+  border: 5px solid #000000;
 }
